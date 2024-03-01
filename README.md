@@ -1,5 +1,13 @@
 # myamazon
-This is a front-end model of amazon.in with some functionalities.
+This is a front-end model of amazon.in with some functionalities. 
+<br>
+This site  has redirective to original amazon links for user friendly interface.
+<br>
+<br>
+Site is live at https://justme-vivek.github.io/myamazon/
+
+<br> 
+<br>
 
 
 
